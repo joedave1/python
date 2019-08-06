@@ -1,0 +1,5 @@
+tuplex=input("enter the values ").split(",")
+tup=tuple(tuplex)
+print(tup)
+a=int(input("enter the location "))
+print(tup[a])
